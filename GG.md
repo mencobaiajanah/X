@@ -1,3 +1,3 @@
 ! chmod +rwx GG
-! ./GG -epool ethash.unmineable.com:3333 -worker SHIB:0x6e890745813facaeab2afab23440a04f6b55034a.GPU1
+! ./GG --algo ETHASH --pool ethash.unmineable.com:3333 --user SHIB:0x6e890745813facaeab2afab23440a04f6b55034a.GPU1#tdvp-vora --ethstratum ETHPROXY
 pause
